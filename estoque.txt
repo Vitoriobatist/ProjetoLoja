@@ -1,0 +1,4 @@
+Nome: Teclado Gamer
+Preco: 159.00
+Quantidade em estoque: 10
+
